@@ -8,7 +8,7 @@
 
 사용설명
 -------
-
+![사용설명](https://raw.githubusercontent.com/Uanid/TraxGame/master/picture1.png)
 사진1. 기본 게임 화면
 
 이 프로그램은 사람과 AI의 턴 제한이 없습니다.
